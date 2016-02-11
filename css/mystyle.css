@@ -1,0 +1,60 @@
+body
+{
+
+ background-color:#ccccff;
+
+ background-image: url('../images/gray.jpg');
+ font-family: Georgia, "Times New Roman", Times, serif;
+ 
+ padding-left: 15em;
+ padding-right: 15em;
+ 
+  
+ }
+
+ h1 
+ {
+ font-family: Geneva,Helvetica,Arial,sens-serif; 
+}
+ ul 
+ {
+ font-family: Geneva,Helvetica,Arial,sens-serif; 
+ 
+ }
+ 
+ ul.navbar
+ {
+ list-style-type: none;
+ position: fixed;
+ top : 2em;
+ left : 1em;
+ width: 10em;
+ 
+ }
+ 
+ ul.navbar li
+ {
+ background: white;
+ margin: 0.5em 0;
+ padding: 1em;
+ border-left: 1em solid black;
+ 
+ }
+ 
+ a:link
+ {
+ color:  #7a7a52;
+ }
+ 
+ a:visited
+ {
+ color:  #ffa31a;
+ }
+ 
+ img.textwrap
+ {
+ float: right;
+ margin: 10px;
+ }
+
+  
